@@ -1,0 +1,13 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>跳转中...</title>
+  <script>
+  window.location.href="vseu.com"
+</script>
+</head>
+<body>
+
+</body>
+</html>
